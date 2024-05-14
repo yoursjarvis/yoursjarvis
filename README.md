@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢 I'm currently working at CodeClouds IT Solutions Pvt Ltd as an Assistant Engineer - Web<br>🏫 Learning Vue Js and Nuxt Js<br>💬 Ask me about Laravel, FilamentPHP and Vue JS<br>📨 Reach me at tanmoydey8777@gmail.com
+🏢 I'm currently working at CodeClouds IT Solutions Pvt Ltd as an Engineer - Web<br>🏫 Learning Vue Js and Nuxt Js<br>💬 Ask me about Laravel, FilamentPHP and Vue JS<br>📨 Reach me at tanmoydey8777@gmail.com
 
 
 ## 🌐 Socials:
